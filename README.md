@@ -1,4 +1,4 @@
-# linux-wp
+# composer-wp
 
 ## install on linux exemple on ubuntu
 
@@ -6,6 +6,14 @@
 	bash ./composer.sh
 	#OR
 	./composer.sh
+	
+
+
+## install on linux exemple on ubuntu
+
++ -Manual install[free version](https://github.com/website-project-WP/free-wp) && [Commercial version](https://github.com/website-project-WP/commercial-wp)
+
+* notice: Hosting shared take Manual install
 	
 	
 # back full developement
