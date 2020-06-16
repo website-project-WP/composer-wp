@@ -1,13 +1,13 @@
 # Require Dedicated Hosting / Cloud / Dekstop
 
 
-### 1) install on linux exemple on ubuntu
+### 1) install composer on linux
 
 	curl -O https://raw.githubusercontent.com/website-project-WP/composer-wp/master/install-composer.sh
 	bash ./install-composer.sh #Or ./install-composer.sh
 	rm -f install-composer.sh
 	
-### 1) Update Composer
+### 2) Update Composer on linux
 
 	curl -O https://raw.githubusercontent.com/website-project-WP/composer-wp/master/update-composer.sh
 	bash ./update-composer.sh #Or ./update-composer.sh
@@ -27,6 +27,13 @@
 	rm -f advanced-require-source.sh
 	
 
+### Package source direct
+
+	curl -O https://github.com/website-project-WP/composer-wp/releases/download/1.0-composer/composer-wp-1.0RC.tar.gz
+	tar -xzvf composer-wp-1.0RC.tar.gz
+	# Step 1) -> 2) -> 3) -> 4)
+
+
 ## For Novice and Hosting Shared (recommend)
  
 
@@ -35,6 +42,6 @@
 * notice: Hosting shared take Manual install
 	
 	
-# back full developement
+# back fullstack developement info
 
 + https://github.com/alexonbstudio/website-project
