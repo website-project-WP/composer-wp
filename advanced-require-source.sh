@@ -1,11 +1,8 @@
 #!/bin/sh 
 
 
-###Scripting by Hostinger edited AlexonbStudio
 
-# Require software PHP for Website Project (WP) futur V2
-# automate require use of project
-
+###Scripting by AlexonbStudio
 
 clear
 
