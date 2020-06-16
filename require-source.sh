@@ -17,8 +17,3 @@ else
 
 
 fi
-
-
-# Update composer
-composer self-update
-
