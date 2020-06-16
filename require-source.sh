@@ -13,7 +13,7 @@ if [ ! -x composer ]; then
 	composer dump-autoload --no-dev
 	composer clearcache	
 else
-	curl -O  | bash
+	curl -O https://raw.githubusercontent.com/website-project-WP/composer-wp/master/install-composer.sh | bash
 
 
 fi
